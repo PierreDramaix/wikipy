@@ -7,7 +7,6 @@ search = "Bill Clinton"
 
 # con = sqlite3.connect('wikipedia_py')
 # cur = con.cursor()
-# cur = con.cursor()
 # cur.execute('''CREATE TABLE famous_people
 #            (ID integer primary key, name text, summary text)''')
 # con.commit()
